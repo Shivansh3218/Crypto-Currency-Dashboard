@@ -1,0 +1,44 @@
+[
+    {
+      "name": "Bitcoin",
+      "market_cap_rank": 1,
+      "market_cap_change_24h": 831,
+      "symbol": "btc"
+    },
+    {
+      "name": "Ethereum",
+      "market_cap_rank": 2,
+      "market_cap_change_24h": 186820,
+      "symbol": "eth"
+    },
+    {
+      "name": "USD Coin",
+      "market_cap_rank": 5,
+      "market_cap_change_24h": -44112.27,
+      "symbol": "usdc"
+    },
+    {
+      "name": "XRP",
+      "market_cap_rank": 7,
+      "market_cap_change_24h": 4100,
+      "symbol": "xrp"
+    },
+    {
+      "name": "Dogecoin",
+      "market_cap_rank": 8,
+      "market_cap_change_24h": -828.86,
+      "symbol": "doge"
+    },
+    {
+      "name": "Litecoin",
+      "market_cap_rank": 13,
+      "market_cap_change_24h": -2923.5461,
+      "symbol": "ltc"
+    },
+    {
+      "name": "Cardano",
+      "market_cap_rank": 9,
+      "market_cap_change_24h": -2923.5461,
+      "symbol": "ada"
+    }
+  ]

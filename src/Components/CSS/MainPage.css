@@ -1,0 +1,61 @@
+.ChartnCoin{
+    display: flex;
+   justify-content: space-between; 
+}
+.MainPage{
+    background-color:rgb(0, 21, 41);
+    overflow: scroll;
+    height: 76.8vh;
+    overflow-x: hidden;
+}
+.MainPage::-webkit-scrollbar{
+width: 0;
+}
+
+.currencyChartHeading{
+    display: flex;
+    flex-wrap: wrap;
+    color:  aliceblue;
+    margin-top: 1rem;
+   background-color:rgb(0, 21, 41);
+    align-items: baseline;
+    margin-right: 1rem;
+    justify-content: flex-end;
+}
+#demo-simple-select-label{
+    margin: 1rem;
+    color:  aliceblue;
+}
+.headingOfChart{
+    height: 2rem;
+    color: aliceblue;
+    background-color:rgb(0, 21, 41) ;
+    text-align: center;
+    margin-top: 1rem;
+    font-size: 1.3rem;
+}
+.tableCell{
+color:white;
+}
+.profileLinks{
+    margin-top:1rem;
+    display: flex;
+    gap: 1rem;
+}
+.profileCards{
+    display:flex;
+    gap:2rem;
+    align-items: center;
+    justify-content: center;
+}
+.about_main{
+    background-color:rgb(0, 21, 41);
+    height: 76.8vh;
+    overflow-x: hidden;
+    overflow-y: scroll;
+}
+
+.about_main::-webkit-scrollbar{
+    width: 0;
+    }
+

@@ -1,0 +1,19 @@
+.newsTitleCard{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center; 
+}
+
+.newsFeedHeading{
+    text-align: center;
+    font-size: 43px;
+}
+
+.readMoreBtn_{
+    background-color: #1d3557;
+}
+
+.readMoreLink{
+    color: #f1faee;
+    /* background-color: #1d3557; */
+}

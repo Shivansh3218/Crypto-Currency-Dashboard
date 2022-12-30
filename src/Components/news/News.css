@@ -1,0 +1,23 @@
+.news_header {
+  color: white;
+}
+
+.contentStyle {
+  display: "flex";
+  height: 100vh;
+  color: "white";
+  padding: 20% 0;
+  line-height: "160px";
+  text-align: "center";
+  width: 40%;
+  padding: 10%;
+  background: "#364d79";
+}
+
+.contentStyle img {
+  width: 90%;
+}
+.caroosel_left {
+  height: 85vh;
+  overflow: hidden;
+}
